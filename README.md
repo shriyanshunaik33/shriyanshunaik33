@@ -139,15 +139,15 @@ Published at **IEEE International Conference on Data, Energy and Communication N
 # GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShriyanshuNaik&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shriyanshunaik33&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriyanshuNaik&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyanshunaik33&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriyanshuNaik&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyanshunaik33&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ Published at **IEEE International Conference on Data, Energy and Communication N
 # GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriyanshuNaik&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyanshunaik33&theme=tokyo-night"/>
 </p>
 
 ---
