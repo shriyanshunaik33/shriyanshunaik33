@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shriyanshu Naik</h1>
-<h3 align="center">AI & Data Science Student | Formula Student Developer</h3>
+<h3 align="center">AI & Data Science Undergraduate | Intelligent Systems & Telemetry Engineering</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ShriyanshuNaik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,130 +9,158 @@
 
 # About Me
 
-B.Tech in Computer Science (AI & Data Science)  
+B.Tech in Computer Science Engineering (AI & Data Science)  
 MIT World Peace University, Pune  
 
-Electronics and DAQ Head at **Acceleracers Electric (Formula Student Team)**  
+Lead – Electronics & Data Acquisition Systems at **Acceleracers Electric (Formula Student EV Team)**
 
-I work at the intersection of **Artificial Intelligence, Embedded Systems, and Real-Time Data Platforms**, building intelligent systems for **analytics, telemetry, and optimization**.
+I work at the intersection of **Artificial Intelligence, Data Analytics, Embedded Systems, and Real-Time Telemetry Platforms**, building intelligent systems for analytics, optimization, automation, and vehicle data engineering.
 
-I enjoy solving complex engineering problems involving **algorithms, machine learning, distributed systems, and embedded hardware.**
+My interests include:
+- Machine Learning & AI Systems
+- Data Analytics & Visualization
+- Real-Time Data Platforms
+- Computer Vision
+- Embedded Systems & Telemetry
+- Optimization Algorithms
+
+I enjoy solving engineering problems involving intelligent automation, distributed systems, real-time analytics, and sensor-integrated platforms.
 
 ---
 
 # Technical Skills
 
-### Programming Languages
+## Programming Languages
 
-C++
-Python
-C
-Java
-
-### Computer Science Fundamentals
-
-Data Structures & Algorithms
-Object-Oriented Programming
-Operating Systems
-Database Management Systems
-Computer Networks
-
-
-### Machine Learning & Data Science
-
-Scikit-learn
-NumPy
-Pandas
-Machine Learning Pipelines
-Model Evaluation
-Data Analysis
-
-
-### Embedded Systems
-
-CAN Communication
-Data Acquisition Systems (DAQ)
-Microcontrollers
-Real-time Telemetry Systems
-Sensor Integration
-
-
-### Tools & Technologies
-
-Git
-Arduino IDE
-Raspberry Pi.
-EasyEDA
-Power BI
-SQL Databases
-
+- Python
+- SQL
+- C/C++
+- Java
 
 ---
 
-# Formula Student Engineering Work
+## Data Science & AI
 
-### Electronics and DAQ Head  
-**Acceleracers Electric – Formula Student Team**
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Predictive Analytics
+- Model Evaluation
+- Computer Vision
+- YOLOv8
+- NLP Fundamentals
+- Generative AI Fundamentals
 
-• Developed **real-time vehicle data acquisition systems** for electric race car telemetry  
-• Implemented **CAN communication pipelines** for high-frequency sensor data  
-• Built **fault handling logic for AMS and IMD safety systems**  
-• Designed **real-time telemetry transmission architecture**  
-• Performed debugging, validation, and performance optimization of embedded software  
+---
+
+## Data Analytics & Visualization
+
+- Power BI
+- Tableau
+- Dashboard Development
+- KPI Visualization
+- Data Storytelling
+- SQL Analytics
+
+---
+
+## Embedded Systems & Telemetry
+
+- CAN Communication
+- Data Acquisition Systems (DAQ)
+- Real-Time Telemetry Systems
+- Sensor Integration
+- Embedded Platforms
+- Fault Detection Frameworks
+
+---
+
+## Computer Science Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+
+---
+
+## Tools & Technologies
+
+- Git
+- MySQL
+- APIs
+- Arduino IDE
+- Raspberry Pi
+- EasyEDA
+
+---
+
+# Formula Student Engineering Experience
+
+## Lead – Electronics & Data Acquisition Systems  
+### Acceleracers Electric – Formula Student EV Team
+
+- Spearheading Electronics and DAQ operations for the Formula Student EV platform
+- Designing high-frequency telemetry and vehicle data acquisition pipelines
+- Implementing CAN-based communication systems for real-time sensor analytics
+- Architecting fault-detection frameworks for safety-critical embedded systems
+- Performing debugging, validation, and system-level optimization across embedded platforms
 
 ---
 
 # Featured Projects
 
-## Real-Time Vehicle DAQ & Telemetry Platform
+## Social Media Ad Performance Analyzer
 
-**Tech Stack:** C++, Embedded Systems, CAN, Microcontrollers
+**Tech Stack:** Python, SQL, Power BI, Tableau
 
-• Designed distributed real-time **data acquisition architecture**  
-• Implemented **sensor data ingestion and logging systems**  
-• Built telemetry transmission pipelines for **remote monitoring**  
-• Ensured **fault-tolerant communication between embedded nodes**
-
----
-
-## Social Media Ad Performance Analytics Platform
-
-**Tech Stack:** Python, SQL, Power BI
-
-• Built **end-to-end analytics pipeline** for campaign performance analysis  
-• Implemented relational **data model for marketing metrics**  
-• Designed **interactive dashboards** for campaign insights  
-• Optimized queries for **low-latency visual analytics**
+- Engineered an end-to-end analytics pipeline for campaign performance monitoring
+- Conducted exploratory data analysis on engagement, CTR, conversion, and revenue datasets
+- Crafted KPI-driven dashboards and automated reporting workflows for business insights
 
 ---
 
-## Route Optimization Engine
+## Driverless Path Planning System
 
-**Tech Stack:** Python, Algorithms
+**Tech Stack:** Python, YOLOv8, Computer Vision, MATLAB
 
-• Implemented routing algorithms including **Dijkstra, A\*, and Genetic Algorithms**  
-• Modeled routing constraints such as **distance, time, and resource cost**  
-• Evaluated algorithm performance using **simulation benchmarks**
+- Architected an AI-driven navigation pipeline using YOLOv8 for real-time object detection
+- Refined computer vision models on custom datasets with precision-focused evaluation
+- Integrated perception, preprocessing, and decision-making workflows into a modular autonomous system
+
+---
+
+## UrbanAI – Route Optimization Engine
+
+**Tech Stack:** Python, Algorithms, Optimization
+
+- Formulated an intelligent routing engine for shortest-path and constraint-based navigation
+- Benchmarked Dijkstra, A*, and Genetic Algorithms across multiple routing scenarios
+- Evaluated runtime efficiency, scalability, and optimization performance metrics
 
 ---
 
 # Research Publication
 
-### IoT-Enabled Lithium-ion Battery Management System using ESP32
+## IoT-Enabled Lithium-ion Battery Management System using ESP32
 
 Published at **IEEE International Conference on Data, Energy and Communication Networks (DECoN 2025)**
 
-• Designed IoT-based architecture for **battery monitoring systems**  
-• Implemented **real-time voltage, current, and temperature monitoring**  
-• Developed **fault detection and communication framework for EV safety**
+- Designed IoT-enabled battery monitoring architecture for EV systems
+- Implemented real-time voltage, temperature, and current monitoring pipelines
+- Developed embedded fault-detection and communication frameworks for operational safety
 
 ---
 
 # Certifications
 
-• Electrical Safety Officer (ESO) – SkillShark EduTech  
-• Fundamentals of Electric Vehicles – Udemy  
-• Smart India Hackathon – Participation  
+- Data Science Job Simulation – Lloyds Banking Group
+- Data Analyst Job Simulation – Deloitte
+- Fundamentals of Electric Vehicles – Udemy
 
 ---
 
@@ -162,12 +190,13 @@ Published at **IEEE International Conference on Data, Energy and Communication N
 
 # Connect With Me
 
-Email: **shriyanshunaik.33@gmail.com**
+📧 Email: **naikshriyanshu21@gmail.com**
 
-LinkedIn  
+🔗 LinkedIn:  
 https://linkedin.com/in/shriyanshu-naik
 
 ---
 
-*Passionate about building intelligent systems combining AI, embedded hardware, and real-time data.*
+### Interests
 
+Artificial Intelligence • Data Analytics • Intelligent Systems • Embedded Engineering • Telemetry Platforms • Optimization • Real-Time Systems
